@@ -64,3 +64,6 @@ class App extends Component {
 export default withGlobalState(App);
 
 ```
+
+## support 
+We build this based on new version [Context Api](https://reactjs.org/docs/context.html).Thus support react v16.x.
