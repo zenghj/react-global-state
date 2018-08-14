@@ -1,6 +1,6 @@
 # react-global-state
 
-If you want to use global state in react application, but you do not want to introduce library like `redux`, then this is your choice.
+If you want to use global state in react application, but you do not want to introduce complex library like [redux](https://redux.js.org/) (for example when you just want to store the some global user info or some basic config info), then this is your choice. But if your global state is complex enough, you'd better choose [redux](https://redux.js.org/) or something else.
 
 ## API
 
